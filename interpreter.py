@@ -1,3 +1,5 @@
+# PYTHON VERSION
+
 # The network is the absractions of the connections of circuits
 global network
 # The instructions of the code
@@ -10,6 +12,7 @@ global orb
 global flow
 # The current cached compare value
 global compare
+
 
 conections: dict = {}
 network: dict = {}
